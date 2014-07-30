@@ -1,6 +1,6 @@
 /*
  * File:   RankingTableTestRunner.cpp
- * Author: dipascae
+ * Author: Emanuele Di Pascale, CTVR - Trinity College Dublin.
  *
  * Created on 30-Jul-2014, 12:29:02
  */

@@ -1,6 +1,6 @@
 /* 
  * File:   RankingTable.hpp
- * Author: Emanuele
+ * Author: Emanuele Di Pascale, CTVR - Trinity College Dublin.
  *
  * Created on 29 July 2014, 18:24
  */
